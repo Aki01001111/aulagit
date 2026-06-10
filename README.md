@@ -8,3 +8,7 @@ AulaGit, Atividade 4
 
 Felipe: soma
 Gustavo: subtração
+
+## COMMITS
+
+1-Gustavo: Adicionei subtração.
